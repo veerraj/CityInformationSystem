@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CityInfoApp</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Rajveer Choudhary</string>
+    <string name="nav_header_subtitle">rajveerchoudhary8440@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="minimum_password">password length should be 6 words</string>
+    <string name="auth_failed">Login failed email or password is incorrect</string>
+
+</resources>
